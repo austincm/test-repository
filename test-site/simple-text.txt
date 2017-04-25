@@ -1,1 +1,4 @@
 Hello! I'm just a text file...
+A change
+Another change
+And another one
